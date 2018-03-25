@@ -1,9 +1,5 @@
-# Github
+# Curso de Git e Github
 
-Arquivo da aula de Git e Github para iniciantes
+Arquivo da aula do curso Git e Github para iniciantes - Udemy.
 
-Este é um repositório teste para ensinar como o Git funciona
-
-Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
-
-Gostou do curso? Ajude com uma doação, até um café é válido =)
+Este é um repositório teste para aprender como o Git funciona.
